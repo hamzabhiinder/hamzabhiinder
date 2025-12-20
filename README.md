@@ -24,8 +24,8 @@ I’m a passionate and results-driven Software Engineer with strong experience i
 ## 💼 Technical Skills
 
 ### 📱 Mobile App Development
-- Flutter (Dart)
 - React Native
+- Flutter (Dart)
 
 ### 🌐 Backend Development
 - Node.js
@@ -51,6 +51,8 @@ I’m a passionate and results-driven Software Engineer with strong experience i
 
 ## 📫 How to Reach Me
 - 💼 **LinkedIn:** *https://www.linkedin.com/in/ameerhamza052/*
+- 🧑‍💻 **Fiverr:** https://www.fiverr.com/s/1qYd8p9
+- 🌐 **Upwork:** https://www.upwork.com/freelancers/~014bb77dcff303eeac?mp_source=share
 
 ---
 
